@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aemProject" mode="merge"/>
+    <filter root="/content/aemProject" mode="merge"/>
+    <filter root="/content/dam/aemProject/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/aemProject" mode="merge"/>
+</workspaceFilter>

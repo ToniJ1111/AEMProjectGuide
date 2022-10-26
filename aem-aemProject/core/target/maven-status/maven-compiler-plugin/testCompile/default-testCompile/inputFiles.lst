@@ -1,0 +1,6 @@
+/Users/toni.johnson/Documents/code/AEMProjectGuide/aem-aemProject/core/src/test/java/com/adobe/aem/aemProjectGuide/core/servlets/SimpleServletTest.java
+/Users/toni.johnson/Documents/code/AEMProjectGuide/aem-aemProject/core/src/test/java/com/adobe/aem/aemProjectGuide/core/schedulers/SimpleScheduledTaskTest.java
+/Users/toni.johnson/Documents/code/AEMProjectGuide/aem-aemProject/core/src/test/java/com/adobe/aem/aemProjectGuide/core/filters/LoggingFilterTest.java
+/Users/toni.johnson/Documents/code/AEMProjectGuide/aem-aemProject/core/src/test/java/com/adobe/aem/aemProjectGuide/core/testcontext/AppAemContext.java
+/Users/toni.johnson/Documents/code/AEMProjectGuide/aem-aemProject/core/src/test/java/com/adobe/aem/aemProjectGuide/core/listeners/SimpleResourceListenerTest.java
+/Users/toni.johnson/Documents/code/AEMProjectGuide/aem-aemProject/core/src/test/java/com/adobe/aem/aemProjectGuide/core/models/HelloWorldModelTest.java

@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/aemProject",
+        "create path (nt:unstructured) /content/dam/aemProject/jcr:content",
+        "set properties on /content/dam/aemProject/jcr:content\n  set cq:conf{String} to /conf/aemProject\n  set jcr:title{String} to \"aemProjectGuide\"\nend"
+    ]
+}
